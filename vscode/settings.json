@@ -1,0 +1,19 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "json.schemas": [
+
+    ],
+    "workbench.settings.applyToAllProfiles": [
+        
+    ],
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "CaskaydiaCove NF,  Regular",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "CaskaydiaCove NF,  Regular",
+    "github.copilot.editor.enableAutoCompletions": false,
+}
+
